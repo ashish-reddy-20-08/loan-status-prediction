@@ -128,7 +128,7 @@ loan_dataset.replace({'Married':{'No':0,'Yes':1},'Gender':{'Male':1,'Female':0},
 
 
 loan_dataset.head()
-
+loan_dataset.corr()
 
 # In[20]:
 
