@@ -12,6 +12,6 @@ In the SVM algorithm, we plot each data item as a point in n-dimensional space (
 
 Then, we perform classification by finding the hyper-plane that differentiates the two classes very well
 
-![image](https://user-images.githubusercontent.com/63282184/135717695-e4d9fe8d-10b9-4ef2-9b90-2f10dc6fef03.png)
+![image](https://user-images.githubusercontent.com/63282184/135717779-fe7c3c95-43cd-4424-be72-c7343e00f4c5.png)
 
 Support Vectors are simply the coordinates of individual observation. The SVM classifier is a frontier that best segregates the two classes (hyper-plane/ line). 
