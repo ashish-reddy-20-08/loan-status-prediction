@@ -15,3 +15,5 @@ Then, we perform classification by finding the hyper-plane that differentiates t
 ![image](https://user-images.githubusercontent.com/63282184/135717779-fe7c3c95-43cd-4424-be72-c7343e00f4c5.png)
 
 Support Vectors are simply the coordinates of individual observation. The SVM classifier is a frontier that best segregates the two classes (hyper-plane/ line). 
+
+
