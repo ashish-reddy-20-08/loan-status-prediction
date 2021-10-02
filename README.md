@@ -8,3 +8,5 @@
 
 However,  it is mostly used in classification problems.
 
+In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is a number of features you have) with the value of each feature being the value of a particular coordinate.
+
