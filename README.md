@@ -28,3 +28,4 @@ SVM can be of two types:
 - SVM works relatively well when there is a clear margin of separation between classes.
 
 - SVM is more effective in high dimensional spaces.
+- SVM is effective in cases where the number of dimensions is greater than the number of samples.
