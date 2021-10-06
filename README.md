@@ -25,4 +25,4 @@ SVM can be of two types:
 
 ## Advantages:
 
-SVM works relatively well when there is a clear margin of separation between classes.
+- SVM works relatively well when there is a clear margin of separation between classes.
