@@ -30,3 +30,7 @@ SVM can be of two types:
 - SVM is more effective in high dimensional spaces.
 - SVM is effective in cases where the number of dimensions is greater than the number of samples.
 - SVM is relatively memory efficient
+
+## Disadvantages:
+
+
