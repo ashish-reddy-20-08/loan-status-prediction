@@ -33,4 +33,5 @@ SVM can be of two types:
 
 ## Disadvantages:
 
+SVM algorithm is not suitable for large data sets.
 
