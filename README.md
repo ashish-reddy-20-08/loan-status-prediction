@@ -23,7 +23,7 @@ SVM can be of two types:
 
 **Non-linear SVM:** Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot be classified by using a straight line, then such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier.
 
-## Advantages of SVM:
+## Advantages of SVM :
 
 - SVM works relatively well when there is a clear margin of separation between classes.
 
