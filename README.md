@@ -34,4 +34,5 @@ SVM can be of two types:
 ## Disadvantages:
 
 - SVM algorithm is not suitable for large data sets.
+- SVM does not perform very well when the data set has more noise i.e. target classes are overlapping.
 - 
