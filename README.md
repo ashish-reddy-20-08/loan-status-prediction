@@ -35,4 +35,5 @@ SVM can be of two types:
 
 - SVM algorithm is not suitable for large data sets.
 - SVM does not perform very well when the data set has more noise i.e. target classes are overlapping.
-- 
+- In cases where the number of features for each data point exceeds the number of training data samples, the SVM will underperform.
+
