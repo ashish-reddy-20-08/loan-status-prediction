@@ -31,7 +31,7 @@ SVM can be of two types:
 - SVM is effective in cases where the number of dimensions is greater than the number of samples.
 - SVM is relatively memory efficient
 
-## Disadvantages of SVM:
+## Disadvantages of SVM :
 
 - SVM algorithm is not suitable for large data sets.
 - SVM does not perform very well when the data set has more noise i.e. target classes are overlapping.
